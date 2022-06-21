@@ -25,7 +25,7 @@ function page(x){
         document.getElementById("footer").style.top = "150%";
 
         }else if(x == "geopage"){
-            document.getElementById("footer").style.top = "265%";
+            document.getElementById("footer").style.top = "250%";
 
         }
         
