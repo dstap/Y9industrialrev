@@ -50,6 +50,35 @@ display: none;
 
 
 }
+.heading3 {
+    background-color: #03c03c;
+    padding: 10px;
+    border-radius: 20px;   
+    text-align: center;
+
+}
+.heading1 {
+    background-color: #03c03c;
+    padding: 10px;
+    border-radius: 20px;   
+    text-align: center;
+
+}
+.heading2 {
+    background-color: #03c03c;
+    padding: 10px;
+    border-radius: 20px;   
+    text-align: center;
+
+}
+.paragraph1{
+    background-color: #03c03c;
+    padding: 10px;
+    border-radius: 20px;   
+    text-align: center;
+    width: auto;
+
+}
 #geopage{
     background-color: #C1E1C1;
     position: absolute;
